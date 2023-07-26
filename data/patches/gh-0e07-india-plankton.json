@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "India Plankton",
+	"description": "This version of plankton has a dark green eye rather then a red one.",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				-1099,
+				-149
+			],
+			[
+				-1094,
+				-134
+			],
+			[
+				-1104,
+				-120
+			],
+			[
+				-1107,
+				-120
+			],
+			[
+				-1113,
+				-130
+			],
+			[
+				-1107,
+				-134
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1105,
+			-129
+		]
+	}
+}
