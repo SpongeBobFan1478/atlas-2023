@@ -1,0 +1,71 @@
+{
+	"id": 3933,
+	"name": "Plankton",
+	"description": "Plankton (full name Sheldon J. Plankton) is a recurring character from the hit american television show SpongeBob SquarePants who tries to get the Krabby Patty secret formula.",
+	"links": {
+		"website": [
+			"https://spongebob.fandom.com/wiki/Sheldon_J._Plankton"
+		],
+		"subreddit": [
+			"spongebob"
+		]
+	},
+	"path": {
+		"250-258": [
+			[
+				-905,
+				-916
+			],
+			[
+				-896,
+				-919
+			],
+			[
+				-894,
+				-922
+			],
+			[
+				-898,
+				-921
+			],
+			[
+				-892,
+				-932
+			],
+			[
+				-899,
+				-930
+			],
+			[
+				-898,
+				-938
+			],
+			[
+				-901,
+				-929
+			],
+			[
+				-909,
+				-923
+			],
+			[
+				-906,
+				-921
+			],
+			[
+				-906,
+				-919
+			],
+			[
+				-906,
+				-918
+			]
+		]
+	},
+	"center": {
+		"250-258": [
+			-902,
+			-923
+		]
+	}
+}
