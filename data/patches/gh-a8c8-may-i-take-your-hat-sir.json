@@ -1,0 +1,76 @@
+{
+	"id": -1,
+	"name": "May i take your hat sir?",
+	"description": "This is a meme from the episode of SpongeBob SquarePants \"Squilliam Returns\" were Patrick acts like a weenie saying \"May i take your hat sir\" 2 times before Squidward covers his mouth.",
+	"links": {
+		"website": [
+			"https://spongebob.fandom.com/wiki/List_of_memes#%22May_I_take_your_hat_sir?%22"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1468,
+				-47
+			],
+			[
+				1498,
+				-48
+			],
+			[
+				1498,
+				-53
+			],
+			[
+				1494,
+				-54
+			],
+			[
+				1489,
+				-53
+			],
+			[
+				1490,
+				-55
+			],
+			[
+				1488,
+				-68
+			],
+			[
+				1490,
+				-69
+			],
+			[
+				1492,
+				-74
+			],
+			[
+				1491,
+				-77
+			],
+			[
+				1485,
+				-73
+			],
+			[
+				1482,
+				-72
+			],
+			[
+				1474,
+				-56
+			],
+			[
+				1470,
+				-53
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1482,
+			-56
+		]
+	}
+}
